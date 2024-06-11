@@ -1,0 +1,28 @@
+2024-05-04 19:43:46 [INFO] Product list: 
+2024-05-04 19:43:46 [INFO] USBKEY
+2024-05-04 19:43:46 [INFO] TSHIRT
+2024-05-04 19:43:46 [INFO] muG
+2024-05-04 19:43:46 [INFO] ---------------
+
+2024-05-04 19:43:46 [INFO] Scanned item: 
+2024-05-04 19:43:46 [INFO] {"command":"done"}
+2024-05-04 20:15:26 [INFO] Product list: 
+2024-05-04 20:15:26 [INFO] USBKEY
+2024-05-04 20:15:26 [INFO] TSHIRT
+2024-05-04 20:15:26 [INFO] muG
+2024-05-04 20:15:26 [INFO] ---------------
+
+2024-05-04 20:15:26 [INFO] Scanned item: 
+2024-05-04 20:15:32 [INFO] {"itemCode":"muG"}
+2024-05-04 20:15:34 [INFO] {"itemCode":"muG"}
+2024-05-04 20:15:35 [INFO] {"itemCode":"muG"}
+2024-05-04 20:15:37 [INFO] {"command":"checkout"}
+2024-05-04 20:15:38 [INFO] {"value":"8.0"}
+2024-05-04 20:15:38 [INFO] Scanned item: 
+2024-05-04 20:15:42 [INFO] {"itemCode":"TSHIRT"}
+2024-05-04 20:15:44 [INFO] {"itemCode":"muG"}
+2024-05-04 20:15:45 [ERROR] {"error":"Unknown item code: asdasd"}
+2024-05-04 20:15:47 [INFO] {"command":"checkout"}
+2024-05-04 20:15:48 [INFO] {"value":"25.0"}
+2024-05-04 20:15:48 [INFO] Scanned item: 
+2024-05-04 20:15:51 [INFO] {"command":"done"}
